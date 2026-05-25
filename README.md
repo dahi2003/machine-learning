@@ -1,9 +1,6 @@
 ═══════════════════════════════════════════════════════════════════
 🚀 FERTILIZER PREDICTION SYSTEM — DEPLOYMENT READY
-═══════════════════════════════════════════════════════════════════
-
-GitHub User: dahi2003
-Status: ✅ READY TO DEPLOY
+══════════════════════════════════════════════════════════════════
 
 ───────────────────────────────────────────────────────────────────
 📦 WHAT'S INCLUDED
@@ -252,8 +249,6 @@ Documentation Files:
 • DEPLOYMENT.md (advanced setup)
 • QUICKSTART.md (reference)
 
-Local Testing:
-python fertilizer_deployment/app.py
 
 # Visit http://localhost:5000
 
