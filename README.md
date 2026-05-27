@@ -4,7 +4,7 @@
 
 ───────────────────────────────────────────────────────────────────
 📦 WHAT'S INCLUDED
-───────────────────────────────────────────────────────────────────
+
 
 ✅ Flask REST API + Web UI (production-ready)
 ✅ Pre-trained Random Forest ML model (75.5% accuracy)
