@@ -270,18 +270,12 @@ Contributions are welcome!
 
 ---
 
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # 👨‍💻 Author
 
-**Your Name**
+**Omkar Yadav**
 
 Machine Learning | Python | Flask | Scikit-learn
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/dahi2003
 
 ⭐ If you found this project useful, consider giving it a star!
